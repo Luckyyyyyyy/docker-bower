@@ -8,7 +8,7 @@
 > If you don't trust, you can build yourself.
 
 ## Tag available
-* latest [(Dockerfile)](https://github.com/xataz/dockerfiles/tree/master/bower/Dockerfile)
+* latest [(Dockerfile)](https://github.com/xataz/docker-bower)
 
 ## Description
 What is [bower](http://bower.io/) ?
