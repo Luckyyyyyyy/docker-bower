@@ -1,6 +1,6 @@
 ![bower](http://bower.io/img/bower-logo.svg)
 
-[![Build Status](https://drone.xataz.net/api/badges/xataz/bower/status.svg)](https://drone.xataz.net/xataz/bower)
+[![Build Status](https://drone.xataz.net/api/badges/xataz/docker-bower/status.svg)](https://drone.xataz.net/xataz/docker-bower)
 [![](https://images.microbadger.com/badges/image/xataz/bower.svg)](https://microbadger.com/images/xataz/bower "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/xataz/bower.svg)](https://microbadger.com/images/xataz/bower "Get your own version badge on microbadger.com")
 
