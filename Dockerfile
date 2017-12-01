@@ -1,4 +1,4 @@
-FROM xataz/node:8
+FROM xataz/node:9
 
 ENV UID=991 \
     GID=991
@@ -6,7 +6,7 @@ ENV UID=991 \
 LABEL description="bower based on alpine" \
       tags="latest" \
       maintainer="xataz <https://github.com/xataz>" \
-      build_ver="2017112701"
+      build_ver="2017120201"
 
 COPY startup /usr/local/bin/startup
 
