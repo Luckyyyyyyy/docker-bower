@@ -50,6 +50,6 @@ alias bower='docker run -it --rm \
         -e GID=$(pwd) \
         xataz/bower'
 ```
-
+################## bower install --allow-root
 ## Contributing
 Any contributions, are very welcome !
